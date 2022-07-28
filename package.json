@@ -1,0 +1,16 @@
+{
+  "name": "casa-de-cambio-mio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "author": "NG",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
